@@ -35,6 +35,7 @@ bunkr.site
 bzq-82-81-85-250.red.bezeqint.net
 cdn.mediacodehub.com
 cdn.top4top.io
+cf.storeify.app
 chatgptfrancais.org
 choomtopsoal.net
 choultoalrie.com
@@ -104,6 +105,7 @@ ltmprod.sh1.hidora.net
 m.zgjiaoda.com
 marchshotgun.com
 martina.sa
+masalojamientos.com
 mdirector.loescher.it
 mdw01.api-fr.ouigo.com
 mdw02.api-fr.ouigo.com
@@ -123,7 +125,6 @@ packlink-spf-pro.appspot.com
 pagewebfacebook.github.io
 pagseguro.com.br
 peach-marsh.69-164-222-118.plesk.page
-pencair4anxdanaiid4.fan-resmi2.xyz
 pengembalian-dana-lazada.linkpc.net
 phonitrax.com
 pl18272579.effectiveratecpm.com
