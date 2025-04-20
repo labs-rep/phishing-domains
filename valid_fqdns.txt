@@ -57,7 +57,6 @@ bzq-82-81-85-250.red.bezeqint.net
 cancelarinmediatamente-miapp.ucoz.net
 cdn-gdqovpr0mro33qwk.orbitcache.com
 cdn-portal---auuth-ndax-cdn.webflow.io
-cdn.mediacodehub.com
 cdn.mob.ru.com
 cdn.thelivechatsoftware.com
 cdn.top4top.io
@@ -257,11 +256,11 @@ track.serveonsite.com
 trackapi.sunflow.app
 tracking.email.datadirectglobal.com
 tracking.prohu.com
-tradingbotsreviews.com
 trk.mailmarvels.com
 trkmesh.com
 tvstream.live
 universoutlet.com
+up6.cc
 user-feedback-monitoring.vercel.app
 v.vidsp.net
 v8dg.com
