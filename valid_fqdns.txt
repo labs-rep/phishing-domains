@@ -25,6 +25,7 @@ api.buyback.cir.ingka.com
 app.nectarcrm.com.br
 app.push-ad.com
 app.pushloop.io
+app.sabinovision.com.br
 apprefaculty.pro
 aprem-kl.com
 arweave.net
@@ -87,6 +88,7 @@ dpuplet.net
 dripl.ink
 dub.sh
 e.top4top.io
+ebay.store-dcf.top
 eetamseethe.com
 efgpmrg.ladies-womanflirts.com
 emailing.ksk-es.de
@@ -124,7 +126,6 @@ ip-51-178-78.eu
 itsssl.com
 iwtsp.com
 justo.aldeat.com
-k1z61z.srsnxkkwcxkpkbj.com
 kanzlei-herfurtner.de
 kaywa.me
 keesat.org
@@ -156,6 +157,7 @@ mememeklawer.blogspot.com
 mememeklawer.blogspot.fr
 mememeklawer.blogspot.kr
 micc-sistecc.fr-1.paas.massivegrid.net
+midly.in
 mostourigoatik.com
 mydealz.digidip.net
 news.webdealsuktrack.com
@@ -233,7 +235,6 @@ store.mastorahbr.org.sa
 studio-rinz.net
 tafsir.app
 telstra-webmail2.weebly.com
-theflappydao-info.com
 thepiratebay10.xyz
 tm-llaceo01.top
 track.serveonsite.com
@@ -268,7 +269,6 @@ www.madhavafoods.com
 www.mubasher.info
 www.musicreadingsavant.com
 www.nunninger-motoculture.fr
-www.oranas.shop
 www.outlets-bose.shop
 www.profitabledisplaycontent.com
 www.renew-track-02.com
