@@ -26,6 +26,7 @@ app.nectarcrm.com.br
 app.push-ad.com
 app.pushloop.io
 app.sabinovision.com.br
+apply.coop
 apprefaculty.pro
 aprem-kl.com
 arweave.net
@@ -60,7 +61,6 @@ chatgptfrancais.org
 checknews.online
 chilsihooveek.net
 choomtopsoal.net
-cj8kn4-marleenkookt-magweb-cmbl.nodes.hypernode.io
 cjaedhb.sitoffrs.com
 classerver.com
 classicguildbank.com
@@ -214,6 +214,7 @@ tafsir.app
 telstra-webmail2.weebly.com
 thepiratebay10.xyz
 tm-llaceo01.top
+track.revenue-track.com
 track.serveonsite.com
 trackapi.sunflow.app
 tracking.avivre.net
@@ -244,9 +245,11 @@ www.djz.sk
 www.effectiveratecpm.com
 www.kaltea-coignieres.fr
 www.madhavafoods.com
+www.mubasher.info
 www.musicreadingsavant.com
 www.nunninger-motoculture.fr
 www.profitabledisplaycontent.com
+www.purewatchluxury.com
 www.renew-track-02.com
 www.renew-track-03.com
 www.rork.app
