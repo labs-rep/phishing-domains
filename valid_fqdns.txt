@@ -72,7 +72,6 @@ cognatesyringe.com
 config.swiftscan.app
 contentz.mkt10748.com
 crm-odoo.ingenosya.mg
-d3ko2p4zmfgl2g.cloudfront.net
 dalilk4english.com
 dana-bantuan-sewz.vercel.app
 dantbritingd.club
@@ -159,6 +158,7 @@ midly.in
 mostourigoatik.com
 mydealz.digidip.net
 netissedev.com
+news.polskacodziennaszansa.pl
 news.webdealsuktrack.com
 newsassets.com
 nezwork.it
@@ -196,7 +196,6 @@ rmqoxn.abadit5rckd.com
 rork.app
 s.sloffer1.com
 s3.ru1.storage.beget.cloud
-securelink-dt.com
 sellsy.tmkg.net
 sheecmimty.net
 shortme.now
@@ -210,6 +209,7 @@ spuppeh.net
 stay.stratosbody.com
 store.mastorahbr.org.sa
 studio-rinz.net
+sync.pmbmonetize.live
 tabfolazshoth.pro
 tafsir.app
 telstra-webmail2.weebly.com
