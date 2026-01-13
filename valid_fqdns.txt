@@ -38,6 +38,7 @@ countlessdispleased.com
 data.sending-emails.info
 de.familynow.club
 dem.pfx.it
+dyndns.fr
 e.top4top.io
 easy.mon-investissement-parking.com
 ecomseller-academie-fr.com
@@ -79,7 +80,6 @@ mail.s-trust.de
 mailing.s-communication.de
 marehbah.shop
 marshalcurve.com
-mcdonalds.tumblr.com
 metrics.player-val.eu
 moers-jud-sieur.top
 mongsautet.life
@@ -121,6 +121,7 @@ r.regardclient-colis.laposte.info
 r.regardclient-courrier.laposte.info
 r.sb2.alltricks.com
 r.sendinblue.uniiti.com
+rads.robox.agency
 regardclient-colis.laposte.info
 regardclient-courrier.laposte.info
 remediji.com
@@ -128,7 +129,6 @@ runwaylanderspot.com
 s7893857.sendpul.se
 s8070800.sendpul.se
 safeapp.mobi
-sandboxteam.be
 scarcity.shopiapps.in
 scouter-app.co
 sdk.appbrain.com
