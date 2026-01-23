@@ -15,7 +15,6 @@ app.push-ad.com
 app.pushloop.io
 app.superform.xyz
 arthurs.com.mk
-autozone-mag.com
 b14wd03.myrdbx.io
 b8rk3exmz.myrdbx.io
 bahigolp.com
@@ -23,9 +22,11 @@ binomtracking.com
 bitget.chainaware.ai
 blog.glowventi.com
 britstradeai.com
+busz.io
 castmedia.click
 cddtsecure.com
 cdn-server.online
+cdn.automoto.tn
 cdn.you2.pl
 cgf2mrp.dating-honeygirles.com
 chat.tv.in
@@ -74,13 +75,16 @@ lesalonpascalbecuwe.com
 likvi.de
 link.simplyintense.digital
 lnk.ink
+locar.sa
 loveforall1.com
 lovetruar.click
 m.comparatifdirect.com
 mail.s-trust.de
 mailing.s-communication.de
+mailing.savoietransmissions.com
 marehbah.shop
 marshalcurve.com
+mcdonalds.tumblr.com
 metrics.player-val.eu
 moers-jud-sieur.top
 mongsautet.life
@@ -129,6 +133,7 @@ regardclient-courrier.laposte.info
 s7893857.sendpul.se
 s8070800.sendpul.se
 safeapp.mobi
+sakuratempestas.click
 sandboxteam.be
 scarcity.shopiapps.in
 scouter-app.co
@@ -136,7 +141,6 @@ sdk.appbrain.com
 sentry.player-val.eu
 shortme.id
 skiderihe.shop
-slider.webstdy.com
 srvlinux4.technolog.fr
 start.apextraderpartners.com
 stats.player-val.eu
