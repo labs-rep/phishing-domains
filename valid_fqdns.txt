@@ -15,6 +15,7 @@ app.networkad.net
 app.push-ad.com
 app.pushloop.io
 app.superform.xyz
+arid-aside.com
 arthurs.com.mk
 autozone-mag.com
 b14wd03.myrdbx.io
@@ -28,7 +29,6 @@ bitget.chainaware.ai
 blog.glowventi.com
 bossyhearing.com
 britstradeai.com
-busz.io
 castmedia.click
 cddtsecure.com
 cdn-server.online
@@ -82,10 +82,12 @@ kntn.ly
 kzt2afc1rp52.com
 laarabi.shop
 labnetrify.com
+lb.cxzm.xyz
 lesalonpascalbecuwe.com
 likvi.de
 link.simplyintense.digital
 lnk.ink
+locar.sa
 loveforall1.com
 lovetruar.click
 m.comparatifdirect.com
@@ -148,11 +150,11 @@ sdk.appbrain.com
 sentry.player-val.eu
 shortme.id
 skiderihe.shop
-slider.webstdy.com
 srvlinux4.technolog.fr
 start.apextraderpartners.com
 stats.player-val.eu
 store.mastorahbr.org.sa
+supportingchildrenwithburns.com
 tg.info.thierrysouccar.com
 tips.rouesrapides.com
 tmm6.it
