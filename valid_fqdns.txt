@@ -58,7 +58,6 @@ fa.muqri.com
 fanspass.sa
 fir.binpdone.com
 footlocker-de.page.rebounce.ai
-footlocker-it.page.rebounce.ai
 gait.com.qa
 gc.edu.sa
 genli.it
@@ -163,7 +162,6 @@ sentry.player-val.eu
 shortme.id
 simplyup.io
 skiderihe.shop
-slider.webstdy.com
 srvlinux4.technolog.fr
 start.apextraderpartners.com
 static-cdn.remediji.com
@@ -173,6 +171,7 @@ supportingchildrenwithburns.com
 tg.info.thierrysouccar.com
 tips.rouesrapides.com
 tmm6.it
+to.acquain-bocca.it
 todaydates.link
 tracking.prohu.com
 trk.email.scontidellasettimana.com
