@@ -98,6 +98,7 @@ monforte-maps.monforte.workers.dev
 mxlclinfo.com
 news.otimicnsmi.it
 nieuws.nieuwsvld.be
+nsreporter.rs
 ntl.shoppingnature.com
 nuffoodsspectrum.in
 obqj2.com
@@ -177,7 +178,6 @@ vmi1544441.contaboserver.net
 vqn54vnarc.gjirafa.net
 wa.pe
 wafsearch.wiki
-wapsir.com
 webstdy.com
 wpad.accenture.com
 wsend.co
