@@ -60,7 +60,6 @@ global-files-nginx.builderall.com
 globalgala.com
 godetour.dev
 highsolution.qa
-hk.jayantwhaling.shop
 ic.aff-handler.com
 ig.info.thierrysouccar.com
 ig.news.q-park-resa.fr
@@ -99,7 +98,6 @@ mr.dawar.sa
 mxlclinfo.com
 news.otimicnsmi.it
 nsreporter.rs
-ntdnewtds.shop
 ntl.shoppingnature.com
 nuffoodsspectrum.in
 nw.dem.wifi2fly.com
@@ -174,7 +172,6 @@ tunelkeyeu.com
 unrealistic-reaction.com
 v7.cicfinder.com
 video.shqiptarja.com
-video.twimg.kim
 vmi1544441.contaboserver.net
 vqn54vnarc.gjirafa.net
 wa.pe
