@@ -46,6 +46,7 @@ easy.mon-investissement-parking.com
 easycheckout.vguarino.it
 eb71hnp9ckiv4oo-p.adktrack125.xyz
 echo.accenture.com
+edge.cdnlivetv.ru
 effectivegatecpm.com
 en.muqri.com
 ereskrypt.com
@@ -58,7 +59,6 @@ footlocker-fr.page.rebounce.ai
 footlocker-it.page.rebounce.ai
 freeavmhzwr.click
 futy-widget-2.netlify.app
-getyest.com
 gifdfge.r.af.d.sendibt2.com
 gifdfge.r.bh.d.sendibt3.com
 gigaly.sk
@@ -95,7 +95,6 @@ marketing-website-dfh.pages.dev
 marketingwithsam.co
 marshalcurve.com
 matchjunkie.com
-matomo.a1-digital-itops.exo.gkube.eu
 matomo.karl-pineau.fr
 mavemedia.trk2afse.com
 mcp-juridique.fr
@@ -144,12 +143,14 @@ r.email.lineten.com
 r.regardclient-courrier.laposte.info
 r.regardclient.laposte.info
 r.sb2.alltricks.com
+rads.robox.agency
 realizationnewestfangs.com
 regardclient-courrier.laposte.info
 regardclient.laposte.info
 revion1.shop
 s7893857.sendpul.se
 sandboxteam.be
+securities-cdn.com
 skinnycrawlinglax.com
 sl8mr.mjt.lu
 sonnix.app
@@ -209,6 +210,7 @@ xertsh2i6f8dlju-p.adktrack125.xyz
 ym7f6hodzp.ru
 ym8ne8amtw.ru
 ym9eophtv1.ru
+ymb0dnxa4z.ru
 ymcuu1pbh3.ru
 ymhkttb64y.ru
 ymph9imeg1.ru
