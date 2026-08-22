@@ -41,7 +41,6 @@ d9asyipkbn7ix.cloudfront.net
 data.theasset.store
 dem.pfx.it
 dev.fun
-dntds.shop
 domainejeanyvesbizot.com
 donate.rhc-jazan.org.sa
 dropahint.love
@@ -97,6 +96,7 @@ marketing-website-dfh.pages.dev
 marketing.hill-smart.com
 marshalcurve.com
 matomo-ecab.sh1.hidora.com
+matomo-falkenberg.wiznet.se
 mavemedia.trk2afse.com
 mbdata.sk
 monforte-maps.monforte.workers.dev
@@ -112,7 +112,6 @@ oneawaytogypt.org
 onetracktwo.com
 onkclvdm.guilyohm.baby
 openyoutu.be
-orderholyguacamole.com
 oundhertobeconsist.org
 oz3ia64j4zozg.kimi.page
 p346nq2brxh8adt-p.adktrack125.xyz
@@ -187,7 +186,6 @@ www.bestidate4you.com
 www.dsia-conseil.fr
 www.effectivecpmnetwork.com
 www.effectivegatecpm.com
-www.fussmattensysteme.de
 www.highperformanceformat.com
 www.htsacademy.online
 www.kebranegast.com
@@ -202,6 +200,7 @@ xd8njutj4ipf5zr-p.adktrack125.xyz
 yallamenu.shop
 yallashoottv1.cc
 ym4vqrbk9l.ru
+ymhkttb64y.ru
 ymob5uffw9.ru
 ympsqm8vb8.ru
 ymr8fm2jmd.ru
