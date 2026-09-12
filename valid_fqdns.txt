@@ -7,6 +7,7 @@ anybird.app
 app-cdn.welovecustomers.fr
 app.hoods.live
 auvergne-rhone-alpes.lpo.fr
+ba.cantypunting.digital
 betssonit.paymentsson.com
 binom.bluebase.pro
 binom.greenbase.pro
@@ -26,7 +27,6 @@ ch2.chudai.live
 ch3.chudai.live
 chat.osirisai.app
 chck.me
-chervogolfsanvigilio.musvc4.net
 cml07t2sx5ln1oj-p.adktrack125.xyz
 content.dl-rms.com
 criesspiceclack.com
@@ -53,6 +53,7 @@ fenixsecret.com
 flushpersist.com
 fontenay-sous-bois.online-reservations.com
 funnel.testora.expert
+gamedoom.cc
 gc.edu.sa
 gifdfge.r.af.d.sendibt2.com
 gifdfge.r.bh.d.sendibt3.com
@@ -62,7 +63,6 @@ gls-consignee-app-309300.firebaseapp.com
 go.undinuovo.com
 godetour.dev
 groove.clickhouse.com
-gvtransportes.pt
 gz.budgingtusseh.qpon
 ig.news.gemme-les-bijoux.com
 image.cosplayfu.com
@@ -78,6 +78,7 @@ lb-front-prod.df.fbd.aws.nexen.net
 lenapp.space
 lesalonpascalbecuwe.com
 lilplay.com
+link.gekkolink.net
 links-p.adktrack124.xyz
 live.hod.ink
 llmzjn.heathuntter.com
@@ -114,6 +115,7 @@ openyoutu.be
 opungnani.shop
 orderholyguacamole.com
 oundhertobeconsist.org
+outsideonline.com
 oz3ia64j4zozg.kimi.page
 papucs.shop
 paris.aquatonic.fr
@@ -167,7 +169,6 @@ trust-us.uk
 trusttraff.com
 trustus-eu.uk
 unblocked66.games
-uni-bremen.shownottell.studio
 up.d2xmail.com
 v9-2.cicfinder.com
 video.shqiptarja.com
@@ -183,7 +184,6 @@ www.effectivecpmnetwork.com
 www.effectivegatecpm.com
 www.highperformanceformat.com
 www.htsacademy.online
-www.kebranegast.com
 www.krbitget.com
 www.myardeche.fr
 www.online-reservations.com
@@ -191,8 +191,6 @@ www.shopmos.co.uk
 www.tntsports.co.uk
 www.trustedcpmrevenue.com
 www.wappkit.com
-xd8njutj4ipf5zr-p.adktrack125.xyz
-yallamenu.shop
 ym4vqrbk9l.ru
 ym7agrabf4.ru
 ym9eophtv1.ru
