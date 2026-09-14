@@ -6,6 +6,8 @@ allinoursite.com
 anybird.app
 app-cdn.welovecustomers.fr
 app.hoods.live
+app.salesape.ai
+assignlabor.com
 auvergne-rhone-alpes.lpo.fr
 ba.cantypunting.digital
 betssonit.paymentsson.com
@@ -37,7 +39,6 @@ cvboost.nanocorp.app
 cyberdrop.cr
 cybernoodles.com
 cz-vq04.na1.hs-salescrm-engage.com
-d2bq4q2imbf7uy.cloudfront.net
 d9asyipkbn7ix.cloudfront.net
 data.theasset.store
 dem.pfx.it
@@ -61,7 +62,6 @@ gifdfge.r.bh.d.sendibt3.com
 globalgala.com
 globalprimereport.com
 gls-consignee-app-309300.firebaseapp.com
-go.undinuovo.com
 godetour.dev
 groove.clickhouse.com
 gz.budgingtusseh.qpon
@@ -91,6 +91,7 @@ maileroxy.com
 mailing.sparkasse-gruenberg.de
 manager.offres-premium.com
 mapxplorer.oceanfloatmobile.com
+marketing-website-dfh.pages.dev
 marshalcurve.com
 matomo-ecab.sh1.hidora.com
 matomo-falkenberg.wiznet.se
@@ -115,7 +116,6 @@ onkclvdm.guilyohm.baby
 openyoutu.be
 opungnani.shop
 orderholyguacamole.com
-oundhertobeconsist.org
 outsideonline.com
 oz3ia64j4zozg.kimi.page
 papucs.shop
@@ -139,7 +139,6 @@ s.othsk9.com
 s.viieuvkf.com
 s3.ru1.storage.beget.cloud
 sa.cruncho.com
-sandboxteam.be
 scanapp-ks.com
 sconosciuto-numero.it
 serve.uploadfile.click
@@ -153,6 +152,7 @@ starcasinoit-ngpages.paymentsson.com
 static.6.163.119.168.clients.your-server.de
 store.taafi.org.sa
 sukabumi.hooo.info
+swipeychats.com
 tiggypet.primastudio.cloud
 tikdeal.store
 tmm6.it
@@ -170,15 +170,14 @@ trust-us.uk
 trusttraff.com
 trustus-eu.uk
 unblocked66.games
-up.d2xmail.com
 v7-2.cicfinder.com
 v9-2.cicfinder.com
 video.shqiptarja.com
 vmi1544441.contaboserver.net
-wa.pe
 wcms-production-10005-96f6df91-a089-4ab7-8653-9a574c3a00cf.netlify.app
 workdeadlinededicate.com
 www.aiace-italia.eu
+www.anaamw.com
 www.bestidate4you.com
 www.commune-ajim.gov.tn
 www.dsia-conseil.fr
