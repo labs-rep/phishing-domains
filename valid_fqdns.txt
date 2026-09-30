@@ -65,6 +65,7 @@ france-eco-info.fr
 funnel.testora.expert
 gamedoom.cc
 gb-api.prealpha.dev
+gc.edu.sa
 gifdfge.r.af.d.sendibt2.com
 gifdfge.r.bh.d.sendibt3.com
 globalgala.com
@@ -94,7 +95,6 @@ lnk.ink
 m.comparatifdirect.com
 m57dasf2bc.c.mmtrkr.com
 m9umvhhmbp.c.mmtrkr.com
-maileroxy.com
 mailing.sparkasse-gruenberg.de
 mapxplorer.oceanfloatmobile.com
 marketing-website-dfh.pages.dev
@@ -112,6 +112,7 @@ news.nl5.newsletter-laposte.fr
 news.nl6.newsletter-laposte.fr
 news.nl9.newsletter-laposte.fr
 newsletter.pieper.de
+nexus-alpha.tryinnerly.com
 nieuws.nieuwsvld.be
 no-ip.biz
 ns-24.fr
@@ -161,6 +162,7 @@ spendsdetachment.com
 starcasinoit-ngpages.paymentsson.com
 static.6.163.119.168.clients.your-server.de
 store.taafi.org.sa
+streaming.aki.today
 swipeychats.com
 tg.emails.afm-telethon.fr
 tg.news.kubii.com
@@ -180,9 +182,7 @@ tracking.flirtbirds.com
 trendmakers.shop
 trkpostback.com
 tronenergizetoken.com
-trust-us.uk
 trusttraff.com
-trustus-eu.uk
 ukankingwithea.com
 unblocked66.games
 urlvanish.com
@@ -201,7 +201,6 @@ www.bestidate4you.com
 www.commune-ajim.gov.tn
 www.dsia-conseil.fr
 www.effectivecpmnetwork.com
-www.highperformanceformat.com
 www.hyperboost.studio
 www.krbitget.com
 www.myardeche.fr
@@ -220,4 +219,3 @@ ymph9imeg1.ru
 ympsqm8vb8.ru
 ymt7iuw0vn.ru
 yourube.com
-yqb57qmnbikwuog-p.adktrack125.xyz
