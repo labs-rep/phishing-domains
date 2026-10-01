@@ -91,10 +91,10 @@ links-p.adktrack124.xyz
 live.connect2api.com
 live.hod.ink
 llmzjn.heathuntter.com
-lnk.ink
 m.comparatifdirect.com
 m57dasf2bc.c.mmtrkr.com
 m9umvhhmbp.c.mmtrkr.com
+maileroxy.com
 mailing.sparkasse-gruenberg.de
 mapxplorer.oceanfloatmobile.com
 marketing-website-dfh.pages.dev
@@ -102,7 +102,6 @@ marshalcurve.com
 mbdata.sk
 meritbox.app
 metrics.gocloudmaps.com
-monforte-maps.monforte.workers.dev
 movenzia.musvc4.net
 my9games.net
 n6wxm.com
@@ -137,6 +136,7 @@ pl28384201.effectivegatecpm.com
 play.sunrisemc.xyz
 portalfluently.com
 priclist.com
+primes-service.com
 purpur.coffee
 qcec-qatar.com
 r.regardclient.laposte.info
@@ -182,7 +182,10 @@ tracking.flirtbirds.com
 trendmakers.shop
 trkpostback.com
 tronenergizetoken.com
+trophee-thonon-chateldon.fr
+trust-us.uk
 trusttraff.com
+trustus-eu.uk
 ukankingwithea.com
 unblocked66.games
 urlvanish.com
@@ -191,7 +194,6 @@ v7-2.cicfinder.com
 v9-2.cicfinder.com
 video.shqiptarja.com
 vidmoly.biz
-vmi1544441.contaboserver.net
 wcms-production-10005-96f6df91-a089-4ab7-8653-9a574c3a00cf.netlify.app
 web3shield.click
 web3shuld.club
