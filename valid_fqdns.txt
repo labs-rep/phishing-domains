@@ -11,7 +11,6 @@ app.hoods.live
 app.salesape.ai
 askcodez.com
 assignlabor.com
-auvergne-rhone-alpes.lpo.fr
 ba.cantypunting.digital
 betssonit.paymentsson.com
 binom.bluebase.pro
@@ -48,6 +47,7 @@ d2w662unreztf1.cloudfront.net
 d9asyipkbn7ix.cloudfront.net
 data.theasset.store
 dem.pfx.it
+dhdeeeb.nzgetpixs.com
 diffsend.com
 diller.app
 donate.rhc-jazan.org.sa
@@ -66,7 +66,6 @@ france-eco-info.fr
 funnel.testora.expert
 gamedoom.cc
 gb-api.prealpha.dev
-gc.edu.sa
 gifdfge.r.af.d.sendibt2.com
 gifdfge.r.bh.d.sendibt3.com
 globalgala.com
@@ -77,6 +76,7 @@ gp1tickets.com
 gz.budgingtusseh.qpon
 i-want-todate.com
 ig.emails.afm-telethon.fr
+ig.info.laprocure.com
 image.cosplayfu.com
 images1.pornohirsch.net
 images2.pornohirsch.net
@@ -84,6 +84,7 @@ ip-51-178-78.eu
 jszxjiqun8.cdn.dun222.com
 k.related-dating.com
 kettledroopingcontinuation.com
+landing.pivotal.digital
 lesalonpascalbecuwe.com
 lilplay.com
 link.gekkolink.net
@@ -161,6 +162,7 @@ store.taafi.org.sa
 streaming.aki.today
 swipeychats.com
 tg.emails.afm-telethon.fr
+tg.info.laprocure.com
 tg.news.kubii.com
 tiggypet.primastudio.cloud
 tikdeal.store
@@ -197,7 +199,6 @@ web3shuld.club
 workdeadlinededicate.com
 www.anaamw.com
 www.bestidate4you.com
-www.commune-ajim.gov.tn
 www.effectivecpmnetwork.com
 www.hyperboost.studio
 www.kebranegast.com
