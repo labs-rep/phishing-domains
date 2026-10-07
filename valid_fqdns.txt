@@ -10,12 +10,11 @@ anybird.app
 app-cdn.welovecustomers.fr
 app.hoods.live
 app.salesape.ai
-askcodez.com
 assignlabor.com
 ba.cantypunting.digital
 betssonit.paymentsson.com
-binom.bluebase.pro
 bonusnun.com
+bos-drs-prod-wwa-noe-trkrui-01.azurewebsites.net
 bukera.shop
 bulsis.net
 carte.cartebardelatour.fr
@@ -30,6 +29,7 @@ ch1.chudai.live
 ch2.chudai.live
 ch3.chudai.live
 claryo.shop
+clsnews.fr
 cointheprizes.life
 content.dl-rms.com
 cricketpivot.com
@@ -70,6 +70,7 @@ gifdfge.r.bh.d.sendibt3.com
 globalgala.com
 globalprimereport.com
 gls-consignee-app-309300.firebaseapp.com
+go.undinuovo.com
 godetour.dev
 gp1tickets.com
 gz.budgingtusseh.qpon
@@ -114,7 +115,6 @@ nieuws.nieuwsvld.be
 no-ip.biz
 ns-24.fr
 obiettivovistanuova.com
-one-vv4901.com
 oneawaytogypt.org
 onnowplay.com
 openyoutu.be
@@ -144,7 +144,6 @@ s.othsk9.com
 s.viieuvkf.com
 s3.ru1.storage.beget.cloud
 sandboxteam.be
-scanapp-ks.com
 sconosciuto-numero.it
 serve.uploadfile.click
 shopli.city
@@ -172,7 +171,6 @@ tr.np6.com
 tr.relation.uneo.fr
 tr.solution.uneo.fr
 trackapi.sunflow.app
-tracking.email.datadirectglobal.com
 tracking.flirtbirds.com
 trendmakers.shop
 trkpostback.com
@@ -212,6 +210,7 @@ www.tntsports.co.uk
 www.trustedcpmrevenue.com
 ym4vqrbk9l.ru
 ym7agrabf4.ru
+ym87tcymiv.ru
 ym9eophtv1.ru
 ymb0dnxa4z.ru
 ymdwvb5k3r.ru
@@ -219,4 +218,5 @@ ymhkttb64y.ru
 ymph9imeg1.ru
 ymt7iuw0vn.ru
 yourube.com
+z-lib.id
 zip1.io
